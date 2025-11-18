@@ -1,0 +1,501 @@
+need_id,request_date,category,item_description,quantity,urgency,family_id,city,state,zip_code,status,matched_date,fulfilled_date,assigned_donor_id,assigned_church_id,notes
+N00001,2024-12-13,Medical,prescription assistance,4,Critical,F0042,Nashville,TN,37202,Closed,2024-12-14,2024-12-15,D0119,C025,Urgent need for family in crisis
+N00002,2024-11-24,Clothing,school clothes,6,Low,F0073,Atlanta,GA,30301,Fulfilled,2024-11-25,2024-11-25,D0142,C030,Urgent need for family in crisis
+N00003,2024-08-11,Transportation,uber/lyft credit,2,Critical,F0090,Charlotte,NC,28201,Requested,,,,,
+N00004,2024-04-30,Utilities,heating assistance,3,Low,F0183,Nashville,TN,37203,Fulfilled,2024-04-30,2024-04-30,D0096,C008,Urgent need for family in crisis
+N00005,2024-08-29,Clothing,winter coat,2,Critical,F0115,Nashville,TN,37205,Cancelled,,,,,
+N00006,2024-04-20,Food,groceries,1,High,F0061,Nashville,TN,37203,Matched,2024-04-21,,D0136,C014,
+N00007,2024-02-02,School Supplies,calculator,4,Low,F0162,Birmingham,AL,35205,Requested,,,,,
+N00008,2024-01-01,Clothing,school clothes,2,Low,F0135,Birmingham,AL,35203,Closed,2024-01-01,2024-01-04,D0062,C019,
+N00009,2024-01-23,Housing,furniture,4,High,F0065,Birmingham,AL,35201,Cancelled,,,,,
+N00010,2024-12-02,Food,food pantry items,1,High,F0035,Charlotte,NC,28201,Cancelled,,,,,
+N00011,2024-12-22,Childcare,wipes,1,Critical,F0010,Birmingham,AL,35203,Fulfilled,2024-12-23,2024-12-24,D0047,C026,
+N00012,2024-06-07,School Supplies,backpack,1,Medium,F0074,Nashville,TN,37203,Closed,2024-06-08,2024-06-09,D0140,C016,Urgent need for family in crisis
+N00013,2024-03-04,Housing,bedding,4,Critical,F0087,Nashville,TN,37202,In Progress,2024-03-05,,D0103,C024,
+N00014,2024-02-12,Medical,medical supplies,4,Low,F0111,Nashville,TN,37205,Cancelled,,,,,Urgent need for family in crisis
+N00015,2024-02-22,Clothing,school clothes,3,High,F0079,Nashville,TN,37204,Requested,,,,,
+N00016,2024-06-28,Utilities,electric bill,3,Low,F0020,Birmingham,AL,35204,Fulfilled,2024-06-28,2024-06-30,D0091,C020,
+N00017,2024-11-07,Clothing,winter coat,4,Low,F0033,Charlotte,NC,28201,Cancelled,,,,,
+N00018,2024-10-17,Childcare,car seat,5,Medium,F0174,Birmingham,AL,35204,Requested,,,,,Urgent need for family in crisis
+N00019,2024-10-20,Childcare,crib,3,High,F0064,Atlanta,GA,30301,Matched,2024-10-21,,D0094,C013,
+N00020,2024-10-14,Clothing,baby clothes,3,High,F0181,Birmingham,AL,35204,Requested,,,,,
+N00021,2024-03-03,Transportation,uber/lyft credit,6,Critical,F0023,Charlotte,NC,28203,Matched,2024-03-03,,D0116,C006,
+N00022,2024-03-21,Food,food pantry items,6,Medium,F0093,Nashville,TN,37205,Cancelled,,,,,
+N00023,2024-09-09,School Supplies,notebooks,3,High,F0120,Charlotte,NC,28205,Requested,,,,,
+N00024,2024-07-22,Food,groceries,6,Critical,F0135,Nashville,TN,37204,Cancelled,,,,,Urgent need for family in crisis
+N00025,2024-11-24,Food,meal,4,Critical,F0175,Nashville,TN,37205,Requested,,,,,
+N00026,2024-09-14,Clothing,shoes,1,Medium,F0078,Birmingham,AL,35202,Requested,,,,,
+N00027,2024-02-10,School Supplies,pencils,2,High,F0158,Nashville,TN,37205,In Progress,2024-02-10,,D0142,C009,
+N00028,2024-12-03,Clothing,shoes,5,Low,F0008,Charlotte,NC,28201,Closed,2024-12-04,2024-12-09,D0087,C027,
+N00029,2024-11-12,Transportation,bus pass,1,Critical,F0161,Birmingham,AL,35205,Cancelled,,,,,
+N00030,2024-12-16,Transportation,uber/lyft credit,1,Medium,F0113,Charlotte,NC,28204,Fulfilled,2024-12-16,2024-12-20,D0117,C003,
+N00031,2024-06-09,School Supplies,pencils,3,High,F0103,Charlotte,NC,28202,Cancelled,,,,,Urgent need for family in crisis
+N00032,2024-08-26,Food,food pantry items,3,Critical,F0064,Charlotte,NC,28202,Requested,,,,,
+N00033,2024-05-07,Transportation,uber/lyft credit,3,Medium,F0196,Birmingham,AL,35202,Matched,2024-05-07,,D0148,C024,
+N00034,2024-09-11,Medical,medical supplies,1,Critical,F0130,Nashville,TN,37204,Requested,,,,,Urgent need for family in crisis
+N00035,2024-01-25,School Supplies,school uniforms,3,Critical,F0153,Nashville,TN,37204,Requested,,,,,
+N00036,2024-03-09,Housing,bed,4,High,F0012,Birmingham,AL,35204,In Progress,2024-03-10,,D0094,C025,
+N00037,2024-02-07,School Supplies,pencils,3,Low,F0033,Nashville,TN,37201,Fulfilled,2024-02-08,2024-02-11,D0116,C025,
+N00038,2024-03-14,Childcare,stroller,5,Low,F0012,Nashville,TN,37201,Matched,2024-03-15,,D0131,C013,
+N00039,2024-03-17,Childcare,crib,5,High,F0042,Birmingham,AL,35204,Closed,2024-03-18,2024-03-23,D0036,C011,Urgent need for family in crisis
+N00040,2024-12-28,Transportation,car repair,3,High,F0173,Birmingham,AL,35201,Closed,2024-12-28,2024-12-28,D0122,C027,Urgent need for family in crisis
+N00041,2024-05-15,Transportation,gas card,5,Medium,F0185,Birmingham,AL,35201,Cancelled,,,,,
+N00042,2024-12-14,Clothing,baby clothes,1,Medium,F0005,Charlotte,NC,28204,Matched,2024-12-14,,D0147,C023,
+N00043,2024-07-29,Clothing,baby clothes,6,Low,F0181,Charlotte,NC,28202,Closed,2024-07-30,2024-08-04,D0121,C028,
+N00044,2024-06-09,Childcare,crib,5,High,F0174,Birmingham,AL,35203,Matched,2024-06-10,,D0137,C011,
+N00045,2024-10-12,School Supplies,notebooks,3,Medium,F0177,Nashville,TN,37204,In Progress,2024-10-12,,D0077,C025,
+N00046,2024-05-27,Childcare,stroller,5,Critical,F0102,Nashville,TN,37203,Requested,,,,,Urgent need for family in crisis
+N00047,2024-05-27,Clothing,school clothes,1,High,F0114,Atlanta,GA,30303,Cancelled,,,,,Urgent need for family in crisis
+N00048,2024-10-14,School Supplies,notebooks,3,Medium,F0028,Nashville,TN,37205,Cancelled,,,,,Urgent need for family in crisis
+N00049,2024-12-08,School Supplies,notebooks,4,High,F0184,Atlanta,GA,30304,Closed,2024-12-08,2024-12-09,D0060,C002,
+N00050,2024-07-27,Clothing,winter coat,4,Critical,F0167,Charlotte,NC,28202,Cancelled,,,,,Urgent need for family in crisis
+N00051,2024-11-26,Transportation,car repair,1,Medium,F0137,Nashville,TN,37201,Requested,,,,,Urgent need for family in crisis
+N00052,2024-01-19,Clothing,baby clothes,3,Low,F0003,Charlotte,NC,28203,Fulfilled,2024-01-20,2024-01-24,D0048,C030,
+N00053,2024-08-20,Food,food pantry items,5,Critical,F0035,Nashville,TN,37205,Cancelled,,,,,
+N00054,2024-03-24,School Supplies,backpack,4,High,F0184,Nashville,TN,37202,Cancelled,,,,,
+N00055,2024-03-30,Childcare,car seat,5,High,F0023,Charlotte,NC,28204,Closed,2024-03-31,2024-04-03,D0104,C027,
+N00056,2024-06-14,Clothing,shoes,2,Critical,F0193,Birmingham,AL,35203,Matched,2024-06-14,,D0067,C013,Urgent need for family in crisis
+N00057,2024-11-30,Transportation,gas card,6,Low,F0120,Nashville,TN,37203,In Progress,2024-12-01,,D0061,C002,
+N00058,2024-07-07,Transportation,gas card,2,Critical,F0192,Nashville,TN,37205,Closed,2024-07-07,2024-07-10,D0057,C005,
+N00059,2024-05-06,Medical,first aid,5,Low,F0135,Charlotte,NC,28204,Cancelled,,,,,
+N00060,2024-02-01,Childcare,diapers,2,Medium,F0084,Atlanta,GA,30305,Closed,2024-02-02,2024-02-05,D0052,C019,
+N00061,2024-02-16,School Supplies,school uniforms,5,Critical,F0117,Birmingham,AL,35205,Closed,2024-02-17,2024-02-17,D0015,C015,
+N00062,2024-01-12,Medical,first aid,5,Low,F0012,Nashville,TN,37204,Fulfilled,2024-01-12,2024-01-13,D0001,C024,
+N00063,2024-08-29,Food,groceries,3,Critical,F0047,Atlanta,GA,30302,Requested,,,,,Urgent need for family in crisis
+N00064,2024-08-17,Utilities,water bill,5,Medium,F0168,Birmingham,AL,35203,Fulfilled,2024-08-18,2024-08-21,D0021,C022,
+N00065,2024-04-24,Utilities,heating assistance,1,High,F0119,Charlotte,NC,28205,Requested,,,,,
+N00066,2024-08-23,Utilities,electric bill,6,Low,F0009,Charlotte,NC,28204,In Progress,2024-08-23,,D0071,C007,
+N00067,2024-02-04,Housing,mattress,5,Low,F0115,Charlotte,NC,28205,Requested,,,,,
+N00068,2024-07-24,Housing,mattress,1,Medium,F0129,Atlanta,GA,30303,Fulfilled,2024-07-24,2024-07-28,D0139,C007,
+N00069,2024-05-01,Childcare,stroller,4,High,F0071,Nashville,TN,37201,In Progress,2024-05-01,,D0134,C008,
+N00070,2024-01-25,Clothing,baby clothes,5,High,F0179,Birmingham,AL,35204,In Progress,2024-01-26,,D0098,C026,
+N00071,2024-10-02,Transportation,uber/lyft credit,6,Medium,F0119,Charlotte,NC,28201,Fulfilled,2024-10-02,2024-10-07,D0058,C010,
+N00072,2024-07-17,Utilities,heating assistance,6,Low,F0116,Charlotte,NC,28203,Matched,2024-07-17,,D0053,C011,
+N00073,2024-07-12,School Supplies,backpack,5,Low,F0019,Nashville,TN,37202,Cancelled,,,,,Urgent need for family in crisis
+N00074,2024-06-19,School Supplies,calculator,2,Low,F0192,Charlotte,NC,28204,In Progress,2024-06-19,,D0055,C030,Urgent need for family in crisis
+N00075,2024-10-09,School Supplies,calculator,5,High,F0079,Charlotte,NC,28203,In Progress,2024-10-09,,D0098,C015,
+N00076,2024-08-28,Medical,medical supplies,4,Low,F0145,Atlanta,GA,30302,In Progress,2024-08-28,,D0095,C011,Urgent need for family in crisis
+N00077,2024-05-31,Housing,bedding,4,Medium,F0128,Birmingham,AL,35205,Matched,2024-05-31,,D0085,C008,
+N00078,2024-11-24,Childcare,car seat,4,Critical,F0044,Birmingham,AL,35203,Cancelled,,,,,
+N00079,2024-09-25,Medical,prescription assistance,1,Low,F0196,Atlanta,GA,30301,Requested,,,,,
+N00080,2024-01-05,School Supplies,backpack,1,Critical,F0169,Charlotte,NC,28204,Matched,2024-01-06,,D0117,C012,
+N00081,2024-09-28,Utilities,electric bill,3,High,F0005,Atlanta,GA,30305,Cancelled,,,,,Urgent need for family in crisis
+N00082,2024-02-19,Utilities,electric bill,5,High,F0091,Atlanta,GA,30303,Closed,2024-02-19,2024-02-22,D0062,C007,Urgent need for family in crisis
+N00083,2024-08-23,Food,food pantry items,1,Low,F0024,Birmingham,AL,35204,Closed,2024-08-23,2024-08-27,D0058,C010,
+N00084,2024-12-25,Medical,prescription assistance,4,High,F0145,Atlanta,GA,30301,Matched,2024-12-25,,D0128,C028,Urgent need for family in crisis
+N00085,2024-12-20,Housing,mattress,1,High,F0140,Charlotte,NC,28205,Closed,2024-12-21,2024-12-26,D0070,C002,
+N00086,2024-04-16,Clothing,school clothes,3,Medium,F0145,Atlanta,GA,30302,Closed,2024-04-16,2024-04-16,D0102,C030,
+N00087,2024-07-15,Utilities,heating assistance,2,Low,F0129,Nashville,TN,37203,Cancelled,,,,,
+N00088,2024-06-23,Utilities,electric bill,1,High,F0116,Atlanta,GA,30304,Closed,2024-06-24,2024-06-26,D0102,C025,
+N00089,2024-12-14,Utilities,water bill,5,High,F0064,Charlotte,NC,28201,Closed,2024-12-15,2024-12-19,D0098,C003,
+N00090,2024-07-18,Clothing,baby clothes,1,High,F0114,Charlotte,NC,28203,In Progress,2024-07-19,,D0028,C003,Urgent need for family in crisis
+N00091,2024-04-05,Food,meal,4,Low,F0007,Atlanta,GA,30301,Fulfilled,2024-04-06,2024-04-08,D0143,C018,
+N00092,2024-01-07,Food,food pantry items,1,Medium,F0147,Birmingham,AL,35205,In Progress,2024-01-08,,D0100,C025,
+N00093,2024-05-17,Utilities,electric bill,1,Medium,F0112,Charlotte,NC,28203,In Progress,2024-05-17,,D0127,C005,
+N00094,2024-05-08,Medical,prescription assistance,5,Medium,F0118,Nashville,TN,37201,Matched,2024-05-09,,D0127,C020,
+N00095,2024-11-13,Housing,furniture,6,Medium,F0077,Nashville,TN,37203,Fulfilled,2024-11-13,2024-11-16,D0113,C011,
+N00096,2024-03-31,School Supplies,calculator,6,Critical,F0148,Nashville,TN,37202,Fulfilled,2024-03-31,2024-04-04,D0075,C024,
+N00097,2024-02-28,Transportation,uber/lyft credit,5,Low,F0187,Nashville,TN,37204,Closed,2024-02-28,2024-03-03,D0140,C006,Urgent need for family in crisis
+N00098,2024-12-20,School Supplies,calculator,4,Critical,F0036,Nashville,TN,37203,Requested,,,,,
+N00099,2024-02-07,Clothing,baby clothes,5,Critical,F0140,Birmingham,AL,35201,Fulfilled,2024-02-08,2024-02-10,D0123,C019,Urgent need for family in crisis
+N00100,2024-02-25,Childcare,stroller,6,Low,F0145,Atlanta,GA,30304,Matched,2024-02-26,,D0091,C006,Urgent need for family in crisis
+N00101,2024-01-06,Childcare,crib,3,Medium,F0131,Atlanta,GA,30305,Requested,,,,,
+N00102,2024-07-19,School Supplies,calculator,1,Critical,F0027,Nashville,TN,37203,Fulfilled,2024-07-20,2024-07-22,D0129,C005,
+N00103,2024-06-27,Food,groceries,2,Critical,F0090,Charlotte,NC,28204,In Progress,2024-06-27,,D0117,C026,
+N00104,2024-06-02,Medical,medical supplies,6,Low,F0006,Atlanta,GA,30303,Requested,,,,,
+N00105,2024-10-09,Clothing,shoes,4,Medium,F0104,Charlotte,NC,28202,Matched,2024-10-09,,D0144,C014,
+N00106,2024-11-10,Utilities,water bill,1,Medium,F0053,Atlanta,GA,30303,Matched,2024-11-11,,D0110,C013,Urgent need for family in crisis
+N00107,2024-07-06,Food,groceries,3,Critical,F0136,Charlotte,NC,28203,In Progress,2024-07-06,,D0118,C004,
+N00108,2024-06-27,Utilities,heating assistance,6,High,F0158,Atlanta,GA,30305,In Progress,2024-06-28,,D0045,C027,
+N00109,2024-05-02,Clothing,school clothes,6,Medium,F0131,Atlanta,GA,30304,In Progress,2024-05-02,,D0047,C012,
+N00110,2024-04-05,Clothing,baby clothes,6,Medium,F0143,Birmingham,AL,35202,Fulfilled,2024-04-06,2024-04-11,D0138,C023,
+N00111,2024-08-18,Clothing,shoes,2,Medium,F0099,Nashville,TN,37205,Closed,2024-08-18,2024-08-20,D0092,C001,
+N00112,2024-07-31,Medical,medical supplies,4,Critical,F0043,Birmingham,AL,35201,Cancelled,,,,,
+N00113,2024-05-20,School Supplies,pencils,4,Critical,F0141,Atlanta,GA,30305,Matched,2024-05-21,,D0074,C006,
+N00114,2024-10-04,Food,food pantry items,6,Critical,F0140,Nashville,TN,37202,Requested,,,,,Urgent need for family in crisis
+N00115,2024-01-17,Food,meal,1,Critical,F0031,Nashville,TN,37202,Fulfilled,2024-01-17,2024-01-22,D0090,C028,
+N00116,2024-03-25,Childcare,stroller,1,High,F0137,Birmingham,AL,35203,Closed,2024-03-25,2024-03-26,D0053,C027,
+N00117,2024-05-28,Clothing,school clothes,1,Medium,F0193,Nashville,TN,37204,Closed,2024-05-28,2024-06-01,D0132,C029,Urgent need for family in crisis
+N00118,2024-05-07,Transportation,bus pass,2,Critical,F0126,Charlotte,NC,28202,Matched,2024-05-08,,D0083,C027,
+N00119,2024-08-19,Transportation,uber/lyft credit,6,Low,F0104,Birmingham,AL,35205,Requested,,,,,Urgent need for family in crisis
+N00120,2024-06-16,Childcare,crib,6,High,F0017,Birmingham,AL,35205,Closed,2024-06-16,2024-06-18,D0024,C024,
+N00121,2024-05-17,Utilities,electric bill,5,Medium,F0145,Birmingham,AL,35204,In Progress,2024-05-17,,D0087,C018,Urgent need for family in crisis
+N00122,2024-11-16,Housing,bed,2,Critical,F0117,Atlanta,GA,30301,Fulfilled,2024-11-16,2024-11-20,D0032,C030,Urgent need for family in crisis
+N00123,2024-11-28,Utilities,electric bill,6,High,F0065,Charlotte,NC,28201,In Progress,2024-11-28,,D0071,C003,
+N00124,2024-11-16,Clothing,winter coat,6,Low,F0181,Birmingham,AL,35201,In Progress,2024-11-17,,D0060,C014,
+N00125,2024-10-30,Medical,prescription assistance,1,High,F0031,Charlotte,NC,28204,Matched,2024-10-31,,D0114,C001,
+N00126,2024-07-15,Medical,prescription assistance,6,Low,F0027,Charlotte,NC,28203,Requested,,,,,
+N00127,2024-03-09,Transportation,bus pass,6,Medium,F0018,Birmingham,AL,35205,Cancelled,,,,,
+N00128,2024-04-19,Clothing,baby clothes,6,Medium,F0106,Nashville,TN,37205,Cancelled,,,,,
+N00129,2024-03-12,School Supplies,backpack,5,Critical,F0090,Atlanta,GA,30304,Requested,,,,,
+N00130,2024-11-26,Clothing,shoes,2,High,F0200,Nashville,TN,37201,Requested,,,,,Urgent need for family in crisis
+N00131,2024-07-19,Transportation,bus pass,2,Critical,F0099,Charlotte,NC,28201,In Progress,2024-07-20,,D0014,C026,
+N00132,2024-06-11,Food,groceries,3,Medium,F0196,Nashville,TN,37204,Matched,2024-06-12,,D0146,C014,Urgent need for family in crisis
+N00133,2024-01-08,Food,groceries,1,Critical,F0130,Atlanta,GA,30303,In Progress,2024-01-08,,D0011,C030,
+N00134,2024-02-12,Utilities,water bill,5,Medium,F0072,Birmingham,AL,35201,Cancelled,,,,,
+N00135,2024-07-19,School Supplies,notebooks,4,Medium,F0015,Nashville,TN,37202,Closed,2024-07-20,2024-07-24,D0017,C010,
+N00136,2024-11-09,Utilities,electric bill,6,Medium,F0031,Birmingham,AL,35201,Closed,2024-11-09,2024-11-13,D0080,C022,Urgent need for family in crisis
+N00137,2024-06-26,Housing,mattress,2,High,F0188,Birmingham,AL,35201,Closed,2024-06-27,2024-06-29,D0067,C006,Urgent need for family in crisis
+N00138,2024-05-19,Housing,bedding,6,Low,F0128,Birmingham,AL,35204,Closed,2024-05-19,2024-05-22,D0068,C023,
+N00139,2024-07-07,Housing,furniture,5,Low,F0059,Charlotte,NC,28205,Matched,2024-07-07,,D0027,C029,
+N00140,2024-08-29,Housing,mattress,1,Critical,F0058,Atlanta,GA,30303,In Progress,2024-08-30,,D0039,C006,
+N00141,2024-10-19,Childcare,car seat,1,Medium,F0058,Atlanta,GA,30305,In Progress,2024-10-19,,D0129,C022,Urgent need for family in crisis
+N00142,2024-05-24,Utilities,electric bill,4,Low,F0095,Birmingham,AL,35202,In Progress,2024-05-24,,D0023,C018,
+N00143,2024-07-07,Transportation,bus pass,5,Medium,F0039,Birmingham,AL,35201,Closed,2024-07-08,2024-07-13,D0051,C024,Urgent need for family in crisis
+N00144,2024-11-21,Housing,mattress,1,High,F0001,Nashville,TN,37204,Cancelled,,,,,Urgent need for family in crisis
+N00145,2024-09-28,Transportation,gas card,2,High,F0024,Charlotte,NC,28201,Matched,2024-09-29,,D0126,C002,Urgent need for family in crisis
+N00146,2024-08-22,Utilities,heating assistance,1,Low,F0130,Nashville,TN,37202,Cancelled,,,,,
+N00147,2024-08-10,Utilities,electric bill,2,Medium,F0075,Atlanta,GA,30303,Cancelled,,,,,Urgent need for family in crisis
+N00148,2024-06-11,Utilities,heating assistance,2,Low,F0040,Nashville,TN,37201,Fulfilled,2024-06-11,2024-06-12,D0060,C003,
+N00149,2024-03-02,Medical,medical supplies,4,High,F0031,Birmingham,AL,35201,Closed,2024-03-02,2024-03-04,D0054,C015,
+N00150,2024-06-16,Transportation,gas card,4,Low,F0174,Charlotte,NC,28203,Matched,2024-06-16,,D0064,C012,
+N00151,2024-08-19,Clothing,winter coat,4,Low,F0036,Birmingham,AL,35201,Closed,2024-08-21,2024-08-21,D0141,C008,
+N00152,2024-07-24,School Supplies,notebooks,5,High,F0020,Charlotte,NC,28201,In Progress,2024-07-25,,D0022,C019,Urgent need for family in crisis
+N00153,2024-02-17,School Supplies,calculator,1,Medium,F0147,Charlotte,NC,28204,In Progress,2024-02-17,,D0011,C015,Urgent need for family in crisis
+N00154,2024-07-14,Utilities,water bill,4,Medium,F0091,Atlanta,GA,30302,Cancelled,,,,,Urgent need for family in crisis
+N00155,2024-03-17,Transportation,car repair,5,Medium,F0166,Birmingham,AL,35203,Requested,,,,,
+N00156,2024-05-23,Medical,prescription assistance,5,Medium,F0162,Atlanta,GA,30305,Fulfilled,2024-05-23,2024-05-26,D0108,C007,Urgent need for family in crisis
+N00157,2024-09-02,Utilities,heating assistance,5,High,F0100,Nashville,TN,37203,Closed,2024-09-03,2024-09-06,D0089,C030,
+N00158,2024-01-16,Childcare,stroller,3,Medium,F0041,Charlotte,NC,28201,In Progress,2024-01-16,,D0121,C017,
+N00159,2024-04-22,School Supplies,pencils,2,Medium,F0061,Atlanta,GA,30305,Closed,2024-04-23,2024-04-27,D0091,C030,
+N00160,2024-12-26,Childcare,stroller,3,Medium,F0145,Atlanta,GA,30302,Cancelled,,,,,Urgent need for family in crisis
+N00161,2024-03-30,Medical,first aid,5,Medium,F0006,Nashville,TN,37205,Fulfilled,2024-03-30,2024-03-31,D0024,C002,
+N00162,2024-03-07,Childcare,stroller,3,Low,F0006,Charlotte,NC,28202,In Progress,2024-03-08,,D0046,C030,
+N00163,2024-02-07,Clothing,winter coat,1,High,F0078,Nashville,TN,37203,In Progress,2024-02-08,,D0102,C019,
+N00164,2024-11-28,Clothing,baby clothes,5,High,F0058,Birmingham,AL,35205,In Progress,2024-11-28,,D0144,C023,Urgent need for family in crisis
+N00165,2024-03-06,Utilities,water bill,5,Critical,F0198,Nashville,TN,37205,Matched,2024-03-07,,D0001,C023,
+N00166,2024-11-23,Childcare,stroller,6,Low,F0061,Charlotte,NC,28203,Closed,2024-11-23,2024-11-25,D0128,C005,Urgent need for family in crisis
+N00167,2024-08-16,Clothing,winter coat,3,Medium,F0064,Nashville,TN,37201,Requested,,,,,
+N00168,2024-07-16,Food,groceries,4,Critical,F0097,Atlanta,GA,30303,Fulfilled,2024-07-17,2024-07-22,D0108,C006,
+N00169,2024-03-24,Food,baby formula,3,High,F0027,Charlotte,NC,28201,Fulfilled,2024-03-24,2024-03-24,D0009,C010,
+N00170,2024-10-07,Utilities,electric bill,3,Critical,F0181,Atlanta,GA,30301,Requested,,,,,
+N00171,2024-01-28,Clothing,baby clothes,3,Medium,F0049,Charlotte,NC,28204,Requested,,,,,
+N00172,2024-05-01,Transportation,car repair,1,Critical,F0147,Nashville,TN,37205,Requested,,,,,Urgent need for family in crisis
+N00173,2024-01-02,Clothing,winter coat,6,Critical,F0052,Nashville,TN,37201,Fulfilled,2024-01-02,2024-01-05,D0076,C027,
+N00174,2024-08-30,Clothing,school clothes,3,Critical,F0121,Atlanta,GA,30304,Requested,,,,,Urgent need for family in crisis
+N00175,2024-04-04,Transportation,gas card,4,Low,F0068,Birmingham,AL,35204,In Progress,2024-04-05,,D0095,C006,
+N00176,2024-03-18,School Supplies,pencils,6,Low,F0022,Atlanta,GA,30303,Cancelled,,,,,Urgent need for family in crisis
+N00177,2024-10-10,Utilities,heating assistance,4,Critical,F0138,Charlotte,NC,28204,Requested,,,,,
+N00178,2024-02-10,School Supplies,calculator,5,Medium,F0031,Nashville,TN,37204,Fulfilled,2024-02-11,2024-02-15,D0009,C017,
+N00179,2024-03-05,Clothing,shoes,4,Low,F0175,Charlotte,NC,28204,Requested,,,,,
+N00180,2024-02-04,Clothing,school clothes,4,Critical,F0142,Nashville,TN,37203,Requested,,,,,Urgent need for family in crisis
+N00181,2024-02-27,Medical,prescription assistance,5,Low,F0028,Birmingham,AL,35205,Fulfilled,2024-02-27,2024-03-01,D0038,C019,Urgent need for family in crisis
+N00182,2024-05-15,Transportation,car repair,4,Low,F0045,Birmingham,AL,35203,Fulfilled,2024-05-16,2024-05-20,D0125,C019,
+N00183,2024-06-18,Utilities,electric bill,2,Low,F0191,Birmingham,AL,35204,Cancelled,,,,,Urgent need for family in crisis
+N00184,2024-06-04,Childcare,diapers,6,Low,F0059,Nashville,TN,37202,In Progress,2024-06-04,,D0126,C028,
+N00185,2024-08-01,Medical,medical supplies,2,Critical,F0190,Nashville,TN,37204,Closed,2024-08-02,2024-08-05,D0023,C007,Urgent need for family in crisis
+N00186,2024-02-03,Childcare,diapers,2,Low,F0045,Charlotte,NC,28202,In Progress,2024-02-04,,D0130,C013,Urgent need for family in crisis
+N00187,2024-01-17,School Supplies,backpack,3,High,F0119,Charlotte,NC,28205,Fulfilled,2024-01-17,2024-01-18,D0093,C023,
+N00188,2024-07-09,Food,groceries,4,High,F0089,Charlotte,NC,28202,Fulfilled,2024-07-10,2024-07-15,D0115,C006,Urgent need for family in crisis
+N00189,2024-01-15,Transportation,gas card,2,Medium,F0166,Nashville,TN,37202,Fulfilled,2024-01-15,2024-01-18,D0042,C028,
+N00190,2024-12-15,Transportation,uber/lyft credit,4,Medium,F0166,Atlanta,GA,30302,Requested,,,,,
+N00191,2024-11-07,Housing,mattress,4,High,F0118,Nashville,TN,37203,In Progress,2024-11-08,,D0071,C014,
+N00192,2024-01-04,Transportation,uber/lyft credit,5,High,F0077,Atlanta,GA,30301,Closed,2024-01-05,2024-01-09,D0096,C018,
+N00193,2024-05-21,Childcare,car seat,2,Medium,F0015,Nashville,TN,37205,In Progress,2024-05-22,,D0077,C007,
+N00194,2024-12-01,Childcare,wipes,4,Critical,F0189,Atlanta,GA,30301,Fulfilled,2024-12-01,2024-12-04,D0067,C030,
+N00195,2024-12-17,School Supplies,pencils,3,High,F0044,Charlotte,NC,28205,Closed,2024-12-18,2024-12-22,D0122,C030,
+N00196,2024-05-12,Food,baby formula,5,Medium,F0175,Charlotte,NC,28203,Cancelled,,,,,
+N00197,2024-06-06,School Supplies,pencils,3,Critical,F0031,Charlotte,NC,28204,Fulfilled,2024-06-06,2024-06-10,D0096,C009,
+N00198,2024-09-13,Food,baby formula,6,Critical,F0136,Charlotte,NC,28203,Requested,,,,,
+N00199,2024-06-24,Clothing,shoes,6,Medium,F0200,Charlotte,NC,28201,Fulfilled,2024-06-25,2024-06-27,D0118,C005,
+N00200,2024-01-03,Clothing,school clothes,2,Medium,F0126,Atlanta,GA,30301,Fulfilled,2024-01-03,2024-01-07,D0054,C025,
+N00201,2024-07-25,Utilities,heating assistance,5,Medium,F0188,Birmingham,AL,35203,Fulfilled,2024-07-26,2024-07-26,D0099,C001,Urgent need for family in crisis
+N00202,2024-01-10,Childcare,stroller,1,Medium,F0058,Charlotte,NC,28203,Cancelled,,,,,
+N00203,2024-03-26,Food,baby formula,1,High,F0075,Nashville,TN,37204,Requested,,,,,Urgent need for family in crisis
+N00204,2024-06-24,Childcare,crib,4,Low,F0059,Charlotte,NC,28202,Fulfilled,2024-06-24,2024-06-29,D0049,C006,Urgent need for family in crisis
+N00205,2024-10-28,Clothing,shoes,6,Low,F0097,Atlanta,GA,30303,Closed,2024-10-28,2024-11-01,D0032,C012,Urgent need for family in crisis
+N00206,2024-12-04,Housing,rent assistance,6,Low,F0013,Atlanta,GA,30301,Requested,,,,,
+N00207,2024-08-30,Utilities,electric bill,2,Medium,F0178,Nashville,TN,37201,Cancelled,,,,,
+N00208,2024-08-02,Food,food pantry items,5,Low,F0073,Charlotte,NC,28201,Requested,,,,,Urgent need for family in crisis
+N00209,2024-05-14,Medical,prescription assistance,3,Medium,F0011,Charlotte,NC,28205,Closed,2024-05-14,2024-05-16,D0092,C023,
+N00210,2024-04-30,School Supplies,calculator,1,Low,F0029,Nashville,TN,37205,Requested,,,,,
+N00211,2024-02-21,Clothing,winter coat,3,High,F0119,Atlanta,GA,30301,In Progress,2024-02-22,,D0060,C015,
+N00212,2024-07-03,Clothing,winter coat,3,Critical,F0190,Nashville,TN,37201,Cancelled,,,,,
+N00213,2024-12-05,Housing,bed,2,High,F0092,Charlotte,NC,28204,Cancelled,,,,,Urgent need for family in crisis
+N00214,2024-06-24,Transportation,gas card,4,High,F0099,Nashville,TN,37204,Matched,2024-06-24,,D0103,C013,Urgent need for family in crisis
+N00215,2024-12-22,Clothing,winter coat,1,Medium,F0027,Charlotte,NC,28204,Cancelled,,,,,Urgent need for family in crisis
+N00216,2024-04-02,Medical,first aid,6,Medium,F0124,Birmingham,AL,35204,Closed,2024-04-03,2024-04-03,D0092,C020,
+N00217,2024-02-02,Utilities,water bill,6,Medium,F0172,Atlanta,GA,30303,In Progress,2024-02-03,,D0081,C001,
+N00218,2024-09-03,Food,baby formula,5,Low,F0003,Charlotte,NC,28202,In Progress,2024-09-04,,D0099,C005,
+N00219,2024-02-08,Medical,medical supplies,1,Medium,F0141,Charlotte,NC,28204,Fulfilled,2024-02-08,2024-02-10,D0062,C011,
+N00220,2024-08-15,School Supplies,backpack,4,High,F0031,Birmingham,AL,35204,Closed,2024-08-16,2024-08-18,D0023,C028,Urgent need for family in crisis
+N00221,2024-07-30,Housing,bed,5,Low,F0024,Birmingham,AL,35205,Requested,,,,,Urgent need for family in crisis
+N00222,2024-06-23,Transportation,bus pass,4,High,F0144,Birmingham,AL,35205,In Progress,2024-06-23,,D0058,C028,
+N00223,2024-02-19,Childcare,crib,2,Low,F0088,Atlanta,GA,30303,Cancelled,,,,,Urgent need for family in crisis
+N00224,2024-01-24,Transportation,car repair,6,Critical,F0028,Atlanta,GA,30303,Matched,2024-01-25,,D0036,C027,
+N00225,2024-04-20,School Supplies,backpack,4,Low,F0163,Birmingham,AL,35205,Fulfilled,2024-04-20,2024-04-24,D0087,C004,
+N00226,2024-09-12,Medical,medical supplies,5,Low,F0142,Charlotte,NC,28204,Requested,,,,,Urgent need for family in crisis
+N00227,2024-12-20,Medical,first aid,6,High,F0130,Charlotte,NC,28204,Closed,2024-12-20,2024-12-22,D0033,C004,
+N00228,2024-06-24,School Supplies,pencils,4,High,F0180,Birmingham,AL,35205,In Progress,2024-06-25,,D0035,C005,Urgent need for family in crisis
+N00229,2024-11-15,School Supplies,notebooks,3,High,F0173,Charlotte,NC,28202,Cancelled,,,,,Urgent need for family in crisis
+N00230,2024-06-29,Clothing,school clothes,6,Critical,F0173,Atlanta,GA,30305,Closed,2024-06-30,2024-07-03,D0150,C019,
+N00231,2024-01-13,Utilities,electric bill,2,High,F0193,Atlanta,GA,30302,Fulfilled,2024-01-13,2024-01-13,D0014,C022,Urgent need for family in crisis
+N00232,2024-12-19,Transportation,bus pass,3,Critical,F0027,Atlanta,GA,30305,In Progress,2024-12-19,,D0139,C002,Urgent need for family in crisis
+N00233,2024-05-01,School Supplies,school uniforms,1,Critical,F0100,Birmingham,AL,35204,Closed,2024-05-02,2024-05-06,D0074,C023,Urgent need for family in crisis
+N00234,2024-01-07,Childcare,stroller,3,Medium,F0159,Atlanta,GA,30304,Cancelled,,,,,Urgent need for family in crisis
+N00235,2024-04-09,Childcare,stroller,1,Medium,F0045,Charlotte,NC,28205,In Progress,2024-04-10,,D0046,C022,
+N00236,2024-10-11,Housing,furniture,3,Low,F0085,Nashville,TN,37204,In Progress,2024-10-11,,D0042,C019,Urgent need for family in crisis
+N00237,2024-06-14,Clothing,winter coat,5,High,F0019,Charlotte,NC,28203,Closed,2024-06-14,2024-06-18,D0078,C016,
+N00238,2024-07-31,Clothing,winter coat,2,Medium,F0170,Charlotte,NC,28203,Closed,2024-08-01,2024-08-03,D0104,C003,
+N00239,2024-10-14,Transportation,bus pass,1,Low,F0172,Birmingham,AL,35203,Cancelled,,,,,
+N00240,2024-07-14,School Supplies,backpack,4,High,F0139,Nashville,TN,37203,Requested,,,,,
+N00241,2024-09-06,Childcare,stroller,3,Medium,F0083,Birmingham,AL,35205,Requested,,,,,
+N00242,2024-11-16,Food,meal,2,Medium,F0176,Atlanta,GA,30304,Requested,,,,,Urgent need for family in crisis
+N00243,2024-11-27,School Supplies,school uniforms,6,Medium,F0007,Birmingham,AL,35204,Requested,,,,,Urgent need for family in crisis
+N00244,2024-01-28,Housing,bed,5,Medium,F0067,Atlanta,GA,30304,Matched,2024-01-28,,D0143,C003,
+N00245,2024-01-09,Utilities,water bill,6,Low,F0194,Nashville,TN,37205,Fulfilled,2024-01-10,2024-01-10,D0031,C018,
+N00246,2024-05-28,Food,food pantry items,3,Low,F0073,Atlanta,GA,30304,Cancelled,,,,,
+N00247,2024-09-30,Housing,furniture,5,High,F0163,Charlotte,NC,28202,Matched,2024-09-30,,D0101,C026,
+N00248,2024-03-04,Childcare,diapers,1,Critical,F0138,Charlotte,NC,28205,Requested,,,,,Urgent need for family in crisis
+N00249,2024-04-18,Transportation,bus pass,2,Medium,F0158,Nashville,TN,37203,Fulfilled,2024-04-19,2024-04-20,D0132,C005,
+N00250,2024-11-26,Clothing,winter coat,3,Low,F0051,Birmingham,AL,35205,Closed,2024-11-26,2024-11-26,D0075,C022,
+N00251,2024-12-09,Childcare,car seat,2,Low,F0073,Charlotte,NC,28205,Cancelled,,,,,
+N00252,2024-08-18,School Supplies,pencils,5,Medium,F0145,Birmingham,AL,35205,In Progress,2024-08-19,,D0079,C023,
+N00253,2024-01-03,Childcare,crib,6,Critical,F0071,Charlotte,NC,28203,In Progress,2024-01-03,,D0057,C023,
+N00254,2024-08-16,Childcare,crib,1,Medium,F0166,Birmingham,AL,35205,In Progress,2024-08-16,,D0125,C018,
+N00255,2024-05-14,Transportation,bus pass,6,Low,F0187,Charlotte,NC,28201,Cancelled,,,,,Urgent need for family in crisis
+N00256,2024-10-29,Housing,rent assistance,5,Critical,F0168,Birmingham,AL,35202,Matched,2024-10-29,,D0142,C009,
+N00257,2024-03-09,School Supplies,school uniforms,3,Low,F0170,Nashville,TN,37202,Fulfilled,2024-03-10,2024-03-12,D0131,C003,Urgent need for family in crisis
+N00258,2024-03-22,Clothing,shoes,2,Critical,F0092,Birmingham,AL,35201,Matched,2024-03-23,,D0145,C022,
+N00259,2024-05-15,Medical,prescription assistance,2,High,F0100,Atlanta,GA,30304,In Progress,2024-05-15,,D0011,C022,Urgent need for family in crisis
+N00260,2024-02-22,Housing,bed,5,High,F0190,Nashville,TN,37203,Cancelled,,,,,
+N00261,2024-07-06,Clothing,baby clothes,4,Medium,F0133,Birmingham,AL,35204,Closed,2024-07-07,2024-07-09,D0020,C017,
+N00262,2024-11-05,Childcare,crib,5,Medium,F0113,Birmingham,AL,35202,Requested,,,,,
+N00263,2024-04-05,Transportation,bus pass,2,Critical,F0085,Charlotte,NC,28201,Matched,2024-04-06,,D0031,C022,
+N00264,2024-10-29,Medical,medical supplies,2,Low,F0033,Charlotte,NC,28205,Matched,2024-10-30,,D0106,C001,
+N00265,2024-01-29,Clothing,winter coat,4,Low,F0185,Charlotte,NC,28203,Matched,2024-01-29,,D0047,C017,Urgent need for family in crisis
+N00266,2024-09-03,School Supplies,calculator,2,Medium,F0160,Birmingham,AL,35205,Matched,2024-09-03,,D0106,C020,
+N00267,2024-04-27,Childcare,crib,2,Critical,F0039,Atlanta,GA,30305,Fulfilled,2024-04-28,2024-04-28,D0034,C004,
+N00268,2024-09-29,Medical,first aid,2,Low,F0199,Atlanta,GA,30304,Closed,2024-09-29,2024-10-02,D0024,C016,
+N00269,2024-04-27,Childcare,diapers,6,Low,F0109,Birmingham,AL,35202,Fulfilled,2024-04-28,2024-05-02,D0090,C019,
+N00270,2024-11-02,School Supplies,backpack,6,Low,F0148,Nashville,TN,37205,Closed,2024-11-03,2024-11-03,D0066,C007,
+N00271,2024-12-18,Housing,furniture,2,Critical,F0167,Charlotte,NC,28205,In Progress,2024-12-19,,D0093,C004,
+N00272,2024-11-09,Utilities,heating assistance,2,Critical,F0142,Nashville,TN,37205,In Progress,2024-11-10,,D0102,C025,
+N00273,2024-05-09,Childcare,stroller,6,Critical,F0189,Birmingham,AL,35202,In Progress,2024-05-10,,D0089,C025,Urgent need for family in crisis
+N00274,2024-12-24,Food,meal,4,High,F0141,Birmingham,AL,35205,Matched,2024-12-24,,D0055,C017,
+N00275,2024-11-21,Housing,mattress,1,Medium,F0121,Birmingham,AL,35205,Requested,,,,,
+N00276,2024-07-08,Food,food pantry items,5,Low,F0186,Charlotte,NC,28204,Requested,,,,,Urgent need for family in crisis
+N00277,2024-12-30,Utilities,heating assistance,4,Low,F0052,Nashville,TN,37205,Closed,2024-12-30,2025-01-01,D0045,C021,
+N00278,2024-11-10,Housing,rent assistance,2,Low,F0041,Charlotte,NC,28201,Matched,2024-11-11,,D0010,C012,Urgent need for family in crisis
+N00279,2024-07-26,Utilities,water bill,6,Low,F0024,Birmingham,AL,35205,Closed,2024-07-26,2024-07-30,D0133,C001,
+N00280,2024-04-25,Childcare,car seat,5,Low,F0067,Nashville,TN,37202,Closed,2024-04-25,2024-04-27,D0117,C030,
+N00281,2024-06-23,Food,groceries,5,High,F0138,Nashville,TN,37205,Requested,,,,,
+N00282,2024-05-04,Medical,medical supplies,5,Low,F0124,Birmingham,AL,35201,In Progress,2024-05-05,,D0118,C029,
+N00283,2024-12-12,Utilities,heating assistance,2,High,F0106,Charlotte,NC,28203,Cancelled,,,,,
+N00284,2024-05-27,Housing,bedding,4,High,F0020,Charlotte,NC,28205,Requested,,,,,Urgent need for family in crisis
+N00285,2024-04-21,Medical,medical supplies,2,Critical,F0189,Nashville,TN,37202,Closed,2024-04-21,2024-04-25,D0047,C024,
+N00286,2024-04-27,School Supplies,pencils,1,Low,F0021,Charlotte,NC,28204,Matched,2024-04-27,,D0092,C005,
+N00287,2024-11-13,Housing,furniture,3,Critical,F0047,Nashville,TN,37205,In Progress,2024-11-14,,D0148,C028,
+N00288,2024-01-28,School Supplies,school uniforms,5,High,F0101,Charlotte,NC,28202,Closed,2024-01-29,2024-01-29,D0123,C018,
+N00289,2024-12-18,Food,baby formula,1,Medium,F0098,Nashville,TN,37205,Requested,,,,,
+N00290,2024-04-05,Childcare,stroller,5,High,F0094,Nashville,TN,37202,Closed,2024-04-05,2024-04-08,D0061,C009,
+N00291,2024-07-05,School Supplies,calculator,2,Medium,F0026,Nashville,TN,37203,Fulfilled,2024-07-05,2024-07-08,D0116,C006,Urgent need for family in crisis
+N00292,2024-03-15,Utilities,water bill,2,Critical,F0003,Charlotte,NC,28202,Cancelled,,,,,
+N00293,2024-06-02,Clothing,school clothes,4,Low,F0177,Birmingham,AL,35202,In Progress,2024-06-03,,D0146,C002,
+N00294,2024-08-18,Transportation,uber/lyft credit,3,High,F0093,Atlanta,GA,30303,Cancelled,,,,,
+N00295,2024-07-29,Transportation,car repair,3,Medium,F0148,Atlanta,GA,30305,Requested,,,,,
+N00296,2024-06-15,Clothing,school clothes,5,Critical,F0199,Nashville,TN,37204,Cancelled,,,,,Urgent need for family in crisis
+N00297,2024-08-25,Utilities,heating assistance,2,Medium,F0164,Nashville,TN,37203,Cancelled,,,,,
+N00298,2024-03-23,Utilities,electric bill,6,High,F0182,Atlanta,GA,30303,In Progress,2024-03-23,,D0081,C011,
+N00299,2024-07-04,Utilities,water bill,5,Critical,F0106,Birmingham,AL,35202,Cancelled,,,,,
+N00300,2024-12-04,Housing,mattress,2,Critical,F0027,Charlotte,NC,28201,In Progress,2024-12-06,,D0021,C007,
+N00301,2024-01-14,Medical,first aid,5,Medium,F0022,Atlanta,GA,30304,Fulfilled,2024-01-15,2024-01-16,D0022,C004,
+N00302,2024-11-16,School Supplies,pencils,2,Low,F0009,Birmingham,AL,35203,Matched,2024-11-16,,D0135,C027,Urgent need for family in crisis
+N00303,2024-10-03,Childcare,crib,6,Medium,F0152,Birmingham,AL,35205,In Progress,2024-10-04,,D0114,C005,
+N00304,2024-06-26,Utilities,heating assistance,4,High,F0094,Nashville,TN,37204,Fulfilled,2024-06-27,2024-06-27,D0059,C026,
+N00305,2024-09-24,Transportation,gas card,5,Low,F0177,Atlanta,GA,30304,Matched,2024-09-24,,D0074,C016,Urgent need for family in crisis
+N00306,2024-08-08,Medical,medical supplies,1,High,F0049,Atlanta,GA,30304,In Progress,2024-08-09,,D0060,C026,Urgent need for family in crisis
+N00307,2024-03-24,Utilities,water bill,6,Critical,F0097,Charlotte,NC,28202,Cancelled,,,,,
+N00308,2024-09-21,Utilities,heating assistance,6,High,F0106,Charlotte,NC,28202,Closed,2024-09-22,2024-09-26,D0070,C010,Urgent need for family in crisis
+N00309,2024-02-26,Clothing,shoes,4,Critical,F0070,Nashville,TN,37205,Cancelled,,,,,
+N00310,2024-01-26,Childcare,diapers,3,Medium,F0184,Charlotte,NC,28204,Closed,2024-01-26,2024-01-27,D0048,C004,Urgent need for family in crisis
+N00311,2024-01-08,School Supplies,backpack,4,High,F0119,Charlotte,NC,28201,Fulfilled,2024-01-08,2024-01-10,D0088,C014,
+N00312,2024-07-19,Clothing,winter coat,5,Critical,F0047,Nashville,TN,37202,Requested,,,,,Urgent need for family in crisis
+N00313,2024-03-03,Transportation,uber/lyft credit,2,Critical,F0198,Atlanta,GA,30304,Cancelled,,,,,
+N00314,2024-02-18,Housing,mattress,6,High,F0083,Birmingham,AL,35202,Closed,2024-02-19,2024-02-21,D0054,C016,
+N00315,2024-05-09,Housing,rent assistance,1,Medium,F0029,Atlanta,GA,30302,Fulfilled,2024-05-10,2024-05-12,D0077,C007,
+N00316,2024-05-21,Childcare,diapers,1,Low,F0149,Charlotte,NC,28204,Closed,2024-05-21,2024-05-22,D0102,C026,
+N00317,2024-05-07,Clothing,school clothes,5,High,F0195,Atlanta,GA,30301,Matched,2024-05-08,,D0024,C022,
+N00318,2024-09-06,Clothing,winter coat,6,High,F0113,Charlotte,NC,28202,Matched,2024-09-06,,D0143,C026,
+N00319,2024-05-08,Utilities,water bill,4,Critical,F0144,Charlotte,NC,28203,Requested,,,,,
+N00320,2024-10-05,Medical,prescription assistance,5,Medium,F0018,Charlotte,NC,28205,In Progress,2024-10-05,,D0120,C009,
+N00321,2024-08-20,Transportation,car repair,6,Critical,F0188,Nashville,TN,37202,Requested,,,,,Urgent need for family in crisis
+N00322,2024-06-13,Childcare,stroller,1,Critical,F0049,Charlotte,NC,28205,Cancelled,,,,,
+N00323,2024-07-28,Clothing,school clothes,3,Low,F0025,Nashville,TN,37205,Cancelled,,,,,
+N00324,2024-01-17,Housing,mattress,1,Low,F0147,Charlotte,NC,28204,Matched,2024-01-17,,D0125,C007,
+N00325,2024-04-23,Transportation,gas card,2,Critical,F0021,Nashville,TN,37204,Closed,2024-04-24,2024-04-29,D0019,C001,Urgent need for family in crisis
+N00326,2024-07-07,Housing,bedding,1,High,F0136,Birmingham,AL,35201,Cancelled,,,,,Urgent need for family in crisis
+N00327,2024-09-22,Transportation,gas card,1,Medium,F0137,Charlotte,NC,28204,Requested,,,,,
+N00328,2024-10-12,School Supplies,school uniforms,5,Critical,F0192,Charlotte,NC,28201,Cancelled,,,,,Urgent need for family in crisis
+N00329,2024-02-23,Childcare,crib,5,High,F0169,Birmingham,AL,35202,Matched,2024-02-23,,D0141,C013,
+N00330,2024-10-08,Medical,medical supplies,6,Critical,F0186,Nashville,TN,37203,In Progress,2024-10-09,,D0106,C025,
+N00331,2024-07-03,School Supplies,calculator,1,High,F0153,Nashville,TN,37201,Fulfilled,2024-07-04,2024-07-08,D0102,C001,
+N00332,2024-04-23,Transportation,gas card,6,High,F0142,Nashville,TN,37205,Matched,2024-04-23,,D0006,C025,
+N00333,2024-08-23,Clothing,winter coat,3,Medium,F0060,Atlanta,GA,30303,In Progress,2024-08-23,,D0036,C009,Urgent need for family in crisis
+N00334,2024-02-09,Food,baby formula,3,Critical,F0045,Charlotte,NC,28204,Cancelled,,,,,Urgent need for family in crisis
+N00335,2024-10-22,Food,food pantry items,3,High,F0112,Atlanta,GA,30304,Fulfilled,2024-10-22,2024-10-26,D0015,C030,Urgent need for family in crisis
+N00336,2024-11-20,Food,meal,4,Low,F0079,Atlanta,GA,30305,Cancelled,,,,,
+N00337,2024-03-19,Clothing,school clothes,6,Critical,F0115,Charlotte,NC,28205,Requested,,,,,
+N00338,2024-05-28,Food,meal,4,Low,F0141,Birmingham,AL,35204,Fulfilled,2024-05-28,2024-05-28,D0034,C011,
+N00339,2024-12-23,Utilities,heating assistance,2,Critical,F0102,Birmingham,AL,35205,Matched,2024-12-23,,D0124,C018,
+N00340,2024-05-16,School Supplies,notebooks,6,Critical,F0109,Atlanta,GA,30303,Fulfilled,2024-05-16,2024-05-17,D0148,C003,
+N00341,2024-06-05,Childcare,car seat,2,Critical,F0012,Atlanta,GA,30302,Matched,2024-06-05,,D0114,C020,
+N00342,2024-02-27,Childcare,wipes,1,Medium,F0159,Atlanta,GA,30302,Cancelled,,,,,Urgent need for family in crisis
+N00343,2024-12-21,Transportation,gas card,3,Critical,F0121,Nashville,TN,37201,Requested,,,,,
+N00344,2024-10-07,School Supplies,notebooks,6,Low,F0097,Nashville,TN,37205,Fulfilled,2024-10-08,2024-10-12,D0037,C023,Urgent need for family in crisis
+N00345,2024-01-31,Housing,bedding,4,Low,F0018,Charlotte,NC,28204,In Progress,2024-01-31,,D0070,C002,
+N00346,2024-05-29,Childcare,diapers,4,Medium,F0098,Atlanta,GA,30305,Cancelled,,,,,Urgent need for family in crisis
+N00347,2024-11-01,Food,food pantry items,4,Low,F0011,Birmingham,AL,35202,Closed,2024-11-01,2024-11-03,D0048,C007,Urgent need for family in crisis
+N00348,2024-07-20,Transportation,car repair,2,Low,F0089,Birmingham,AL,35203,Cancelled,,,,,
+N00349,2024-02-01,Transportation,bus pass,3,Critical,F0008,Nashville,TN,37205,Cancelled,,,,,Urgent need for family in crisis
+N00350,2024-07-20,School Supplies,notebooks,2,Low,F0187,Nashville,TN,37204,Cancelled,,,,,
+N00351,2024-10-20,School Supplies,calculator,5,High,F0115,Charlotte,NC,28205,Matched,2024-10-21,,D0080,C030,
+N00352,2024-06-07,Clothing,shoes,6,Medium,F0111,Charlotte,NC,28202,Cancelled,,,,,
+N00353,2024-10-12,Clothing,school clothes,2,Low,F0196,Atlanta,GA,30303,Closed,2024-10-13,2024-10-15,D0031,C006,Urgent need for family in crisis
+N00354,2024-08-14,Utilities,water bill,6,High,F0039,Nashville,TN,37202,Cancelled,,,,,
+N00355,2024-11-06,Clothing,winter coat,2,Low,F0092,Nashville,TN,37201,Closed,2024-11-07,2024-11-08,D0060,C020,
+N00356,2024-12-30,Medical,prescription assistance,3,Medium,F0100,Birmingham,AL,35204,Cancelled,,,,,
+N00357,2024-01-17,Clothing,shoes,6,Medium,F0194,Charlotte,NC,28202,Fulfilled,2024-01-17,2024-01-18,D0070,C014,
+N00358,2024-12-18,Medical,first aid,4,Low,F0156,Birmingham,AL,35204,In Progress,2024-12-19,,D0064,C014,Urgent need for family in crisis
+N00359,2024-09-23,Utilities,heating assistance,4,Critical,F0011,Atlanta,GA,30302,Requested,,,,,
+N00360,2024-10-12,Utilities,heating assistance,4,Critical,F0078,Atlanta,GA,30303,Fulfilled,2024-10-13,2024-10-15,D0013,C007,
+N00361,2024-12-19,Utilities,water bill,4,Low,F0185,Atlanta,GA,30305,Closed,2024-12-19,2024-12-22,D0119,C027,
+N00362,2024-06-14,Clothing,baby clothes,6,Medium,F0117,Birmingham,AL,35201,Fulfilled,2024-06-14,2024-06-17,D0046,C015,
+N00363,2024-02-28,Clothing,winter coat,4,High,F0022,Atlanta,GA,30305,Cancelled,,,,,Urgent need for family in crisis
+N00364,2024-01-23,Clothing,baby clothes,6,Medium,F0042,Birmingham,AL,35202,Matched,2024-01-23,,D0145,C028,
+N00365,2024-06-07,Housing,furniture,4,High,F0161,Nashville,TN,37202,Cancelled,,,,,
+N00366,2024-11-14,Clothing,shoes,4,Low,F0156,Atlanta,GA,30304,In Progress,2024-11-14,,D0118,C016,
+N00367,2024-08-14,Medical,medical supplies,5,Low,F0063,Birmingham,AL,35205,Requested,,,,,
+N00368,2024-03-16,School Supplies,backpack,6,High,F0010,Charlotte,NC,28202,Requested,,,,,Urgent need for family in crisis
+N00369,2024-01-26,Transportation,car repair,4,Medium,F0042,Atlanta,GA,30303,Requested,,,,,
+N00370,2024-01-19,Clothing,baby clothes,3,High,F0095,Nashville,TN,37204,Requested,,,,,Urgent need for family in crisis
+N00371,2024-05-29,Utilities,heating assistance,3,High,F0135,Atlanta,GA,30304,Fulfilled,2024-05-29,2024-06-03,D0032,C023,
+N00372,2024-02-25,School Supplies,school uniforms,6,High,F0110,Atlanta,GA,30305,Closed,2024-02-26,2024-02-29,D0136,C003,Urgent need for family in crisis
+N00373,2024-11-10,Transportation,car repair,4,Critical,F0047,Charlotte,NC,28205,Closed,2024-11-11,2024-11-14,D0134,C024,
+N00374,2024-03-01,Transportation,bus pass,4,Low,F0189,Atlanta,GA,30302,Requested,,,,,Urgent need for family in crisis
+N00375,2024-06-19,Utilities,water bill,6,Medium,F0177,Atlanta,GA,30303,In Progress,2024-06-20,,D0055,C001,
+N00376,2024-09-16,Food,food pantry items,3,High,F0102,Nashville,TN,37205,Closed,2024-09-16,2024-09-20,D0002,C004,
+N00377,2024-06-18,Housing,mattress,4,Low,F0166,Charlotte,NC,28202,In Progress,2024-06-19,,D0123,C030,
+N00378,2024-08-24,Medical,first aid,3,High,F0143,Nashville,TN,37205,Fulfilled,2024-08-26,2024-08-28,D0015,C027,
+N00379,2024-03-17,Childcare,car seat,6,Medium,F0147,Atlanta,GA,30305,In Progress,2024-03-17,,D0087,C013,
+N00380,2024-12-29,Food,food pantry items,3,Critical,F0023,Nashville,TN,37204,Requested,,,,,Urgent need for family in crisis
+N00381,2024-04-20,Childcare,crib,1,Medium,F0024,Nashville,TN,37204,Closed,2024-04-20,2024-04-22,D0045,C004,
+N00382,2024-04-07,Medical,first aid,3,Medium,F0197,Charlotte,NC,28201,In Progress,2024-04-08,,D0135,C010,Urgent need for family in crisis
+N00383,2024-08-23,Clothing,shoes,3,Low,F0176,Atlanta,GA,30305,Fulfilled,2024-08-24,2024-08-24,D0134,C004,Urgent need for family in crisis
+N00384,2024-02-22,Childcare,crib,3,Medium,F0083,Atlanta,GA,30302,Closed,2024-02-23,2024-02-26,D0080,C001,
+N00385,2024-12-09,Transportation,car repair,3,Medium,F0041,Birmingham,AL,35203,Requested,,,,,
+N00386,2024-10-08,Food,meal,3,Medium,F0044,Nashville,TN,37201,In Progress,2024-10-08,,D0037,C023,
+N00387,2024-01-26,Childcare,stroller,6,Low,F0028,Birmingham,AL,35204,Matched,2024-01-26,,D0121,C029,
+N00388,2024-12-26,Utilities,water bill,3,High,F0051,Charlotte,NC,28205,Closed,2024-12-27,2024-12-29,D0115,C020,
+N00389,2024-02-17,Medical,first aid,4,Low,F0117,Charlotte,NC,28203,Cancelled,,,,,
+N00390,2024-04-24,Medical,medical supplies,3,Critical,F0047,Charlotte,NC,28203,Matched,2024-04-25,,D0067,C030,Urgent need for family in crisis
+N00391,2024-01-16,Childcare,crib,4,Low,F0090,Birmingham,AL,35204,Requested,,,,,
+N00392,2024-11-05,Clothing,school clothes,6,Low,F0084,Nashville,TN,37205,Closed,2024-11-05,2024-11-07,D0131,C004,
+N00393,2024-10-29,Transportation,uber/lyft credit,4,Critical,F0017,Birmingham,AL,35203,Fulfilled,2024-10-29,2024-10-30,D0063,C018,
+N00394,2024-10-05,Utilities,water bill,2,Medium,F0170,Nashville,TN,37201,Cancelled,,,,,Urgent need for family in crisis
+N00395,2024-06-15,Medical,prescription assistance,4,Low,F0154,Birmingham,AL,35201,Closed,2024-06-15,2024-06-16,D0114,C006,
+N00396,2024-11-26,Utilities,water bill,1,Low,F0056,Birmingham,AL,35202,Cancelled,,,,,Urgent need for family in crisis
+N00397,2024-08-19,Housing,mattress,4,Medium,F0053,Charlotte,NC,28203,Closed,2024-08-19,2024-08-22,D0100,C020,
+N00398,2024-02-15,Transportation,uber/lyft credit,2,High,F0016,Nashville,TN,37203,Closed,2024-02-15,2024-02-19,D0131,C013,Urgent need for family in crisis
+N00399,2024-02-26,Housing,bed,6,Critical,F0161,Nashville,TN,37203,In Progress,2024-02-26,,D0061,C014,Urgent need for family in crisis
+N00400,2024-10-06,Utilities,water bill,2,Medium,F0143,Birmingham,AL,35204,Matched,2024-10-07,,D0045,C016,Urgent need for family in crisis
+N00401,2024-05-27,Childcare,crib,2,Medium,F0003,Charlotte,NC,28201,Cancelled,,,,,
+N00402,2024-03-10,Clothing,baby clothes,2,Critical,F0117,Birmingham,AL,35205,Requested,,,,,Urgent need for family in crisis
+N00403,2024-10-09,Clothing,baby clothes,4,Low,F0148,Birmingham,AL,35204,Fulfilled,2024-10-10,2024-10-11,D0091,C008,Urgent need for family in crisis
+N00404,2024-07-29,School Supplies,school uniforms,5,Critical,F0181,Nashville,TN,37203,Closed,2024-07-30,2024-07-30,D0094,C002,
+N00405,2024-03-13,Medical,first aid,6,High,F0120,Atlanta,GA,30305,Cancelled,,,,,
+N00406,2024-11-18,Food,meal,6,Low,F0176,Birmingham,AL,35205,Cancelled,,,,,Urgent need for family in crisis
+N00407,2024-09-30,Transportation,gas card,4,Critical,F0132,Nashville,TN,37204,Requested,,,,,
+N00408,2024-05-30,Childcare,crib,5,High,F0187,Nashville,TN,37205,In Progress,2024-05-30,,D0010,C023,
+N00409,2024-10-20,Medical,first aid,6,High,F0189,Charlotte,NC,28205,Requested,,,,,
+N00410,2024-09-15,Medical,prescription assistance,3,High,F0034,Charlotte,NC,28205,Requested,,,,,
+N00411,2024-11-05,Transportation,gas card,4,High,F0045,Atlanta,GA,30303,Matched,2024-11-06,,D0039,C022,Urgent need for family in crisis
+N00412,2024-09-27,School Supplies,calculator,3,Low,F0038,Charlotte,NC,28205,Requested,,,,,Urgent need for family in crisis
+N00413,2024-07-15,Clothing,baby clothes,6,Medium,F0054,Birmingham,AL,35205,Matched,2024-07-16,,D0113,C024,Urgent need for family in crisis
+N00414,2024-02-29,Childcare,diapers,2,Critical,F0103,Nashville,TN,37204,Requested,,,,,
+N00415,2024-08-30,School Supplies,calculator,4,Low,F0074,Birmingham,AL,35204,In Progress,2024-08-30,,D0136,C028,
+N00416,2024-02-19,Childcare,stroller,5,High,F0086,Atlanta,GA,30303,Closed,2024-02-20,2024-02-23,D0091,C028,
+N00417,2024-08-24,Food,food pantry items,6,Medium,F0188,Birmingham,AL,35205,Cancelled,,,,,Urgent need for family in crisis
+N00418,2024-10-07,Childcare,wipes,6,Low,F0018,Nashville,TN,37201,Requested,,,,,
+N00419,2024-04-22,Food,baby formula,3,High,F0050,Nashville,TN,37201,Cancelled,,,,,
+N00420,2024-11-02,Food,groceries,1,Low,F0023,Charlotte,NC,28205,Cancelled,,,,,
+N00421,2024-05-09,Clothing,winter coat,4,High,F0197,Charlotte,NC,28204,In Progress,2024-05-10,,D0020,C021,
+N00422,2024-02-07,Childcare,car seat,3,Low,F0067,Charlotte,NC,28203,In Progress,2024-02-07,,D0098,C013,
+N00423,2024-11-08,Food,baby formula,5,Critical,F0056,Charlotte,NC,28205,Fulfilled,2024-11-08,2024-11-09,D0126,C004,
+N00424,2024-02-22,Medical,first aid,1,Low,F0147,Nashville,TN,37203,Requested,,,,,Urgent need for family in crisis
+N00425,2024-11-30,Housing,furniture,1,Low,F0171,Charlotte,NC,28204,Cancelled,,,,,
+N00426,2024-09-20,Childcare,crib,4,Critical,F0112,Atlanta,GA,30304,Cancelled,,,,,Urgent need for family in crisis
+N00427,2024-07-15,Food,meal,4,Low,F0146,Atlanta,GA,30305,Cancelled,,,,,Urgent need for family in crisis
+N00428,2024-07-24,Childcare,car seat,6,Low,F0094,Nashville,TN,37205,Requested,,,,,Urgent need for family in crisis
+N00429,2024-05-28,Childcare,diapers,2,Medium,F0142,Birmingham,AL,35201,Cancelled,,,,,Urgent need for family in crisis
+N00430,2024-02-24,School Supplies,pencils,6,High,F0125,Birmingham,AL,35201,Cancelled,,,,,Urgent need for family in crisis
+N00431,2024-03-12,Medical,first aid,2,Low,F0185,Charlotte,NC,28205,Requested,,,,,
+N00432,2024-09-12,Utilities,electric bill,1,High,F0185,Nashville,TN,37201,Closed,2024-09-13,2024-09-15,D0005,C002,
+N00433,2024-12-13,School Supplies,school uniforms,1,Low,F0189,Birmingham,AL,35202,Closed,2024-12-13,2024-12-18,D0149,C008,
+N00434,2024-05-04,Housing,furniture,6,Medium,F0004,Atlanta,GA,30302,Cancelled,,,,,
+N00435,2024-11-08,Transportation,gas card,1,Low,F0128,Birmingham,AL,35205,Matched,2024-11-09,,D0017,C027,Urgent need for family in crisis
+N00436,2024-08-06,School Supplies,backpack,1,Medium,F0083,Charlotte,NC,28202,In Progress,2024-08-08,,D0103,C011,Urgent need for family in crisis
+N00437,2024-03-02,Clothing,school clothes,6,High,F0142,Atlanta,GA,30302,In Progress,2024-03-02,,D0107,C006,
+N00438,2024-11-19,Housing,mattress,4,Low,F0002,Atlanta,GA,30301,Closed,2024-11-20,2024-11-24,D0041,C001,
+N00439,2024-12-21,Food,food pantry items,6,High,F0134,Birmingham,AL,35204,Fulfilled,2024-12-22,2024-12-23,D0033,C007,
+N00440,2024-09-12,Clothing,winter coat,1,Medium,F0050,Charlotte,NC,28201,Closed,2024-09-12,2024-09-14,D0078,C012,Urgent need for family in crisis
+N00441,2024-08-25,Food,food pantry items,6,Medium,F0071,Charlotte,NC,28201,Cancelled,,,,,
+N00442,2024-03-31,Clothing,baby clothes,6,High,F0073,Birmingham,AL,35202,Matched,2024-04-01,,D0012,C002,
+N00443,2024-01-23,Childcare,stroller,6,Low,F0138,Birmingham,AL,35202,Requested,,,,,
+N00444,2024-02-06,Housing,furniture,5,High,F0108,Atlanta,GA,30302,Matched,2024-02-07,,D0114,C019,Urgent need for family in crisis
+N00445,2024-06-15,Childcare,wipes,4,Medium,F0097,Atlanta,GA,30302,Matched,2024-06-15,,D0061,C024,
+N00446,2024-03-15,Medical,prescription assistance,4,High,F0035,Birmingham,AL,35204,Matched,2024-03-16,,D0117,C006,Urgent need for family in crisis
+N00447,2024-06-20,Childcare,car seat,3,Medium,F0029,Charlotte,NC,28204,Matched,2024-06-20,,D0146,C002,
+N00448,2024-05-31,Clothing,school clothes,2,Low,F0106,Charlotte,NC,28205,Closed,2024-05-31,2024-06-03,D0044,C019,
+N00449,2024-08-24,School Supplies,school uniforms,2,Medium,F0084,Birmingham,AL,35204,In Progress,2024-08-24,,D0110,C024,
+N00450,2024-01-23,Clothing,winter coat,4,Low,F0109,Birmingham,AL,35205,Requested,,,,,
+N00451,2024-05-03,Food,baby formula,5,Low,F0178,Birmingham,AL,35204,Requested,,,,,Urgent need for family in crisis
+N00452,2024-05-02,Clothing,school clothes,1,Low,F0123,Nashville,TN,37203,Cancelled,,,,,
+N00453,2024-08-20,Medical,first aid,3,Critical,F0181,Atlanta,GA,30301,Fulfilled,2024-08-20,2024-08-24,D0104,C006,Urgent need for family in crisis
+N00454,2024-09-28,Food,baby formula,3,Critical,F0193,Nashville,TN,37203,Requested,,,,,
+N00455,2024-01-29,School Supplies,backpack,1,Critical,F0094,Nashville,TN,37204,Closed,2024-01-30,2024-01-31,D0094,C029,
+N00456,2024-11-27,Childcare,car seat,2,Medium,F0086,Charlotte,NC,28202,Closed,2024-11-28,2024-12-02,D0018,C018,
+N00457,2024-04-25,Medical,first aid,6,Critical,F0071,Charlotte,NC,28201,In Progress,2024-04-25,,D0069,C017,
+N00458,2024-09-13,Childcare,crib,6,High,F0116,Birmingham,AL,35205,Closed,2024-09-13,2024-09-16,D0121,C023,
+N00459,2024-02-14,Food,meal,4,Medium,F0074,Birmingham,AL,35201,Requested,,,,,
+N00460,2024-09-11,Transportation,gas card,1,High,F0107,Charlotte,NC,28205,Matched,2024-09-11,,D0134,C021,Urgent need for family in crisis
+N00461,2024-08-15,Medical,medical supplies,6,Low,F0075,Birmingham,AL,35202,Cancelled,,,,,
+N00462,2024-07-29,School Supplies,school uniforms,6,Critical,F0118,Nashville,TN,37203,Closed,2024-07-29,2024-08-02,D0084,C016,
+N00463,2024-04-26,Transportation,bus pass,1,Medium,F0091,Nashville,TN,37203,Fulfilled,2024-04-27,2024-05-01,D0074,C025,
+N00464,2024-04-03,Clothing,shoes,2,Low,F0011,Nashville,TN,37203,Matched,2024-04-04,,D0040,C006,
+N00465,2024-04-04,Medical,medical supplies,3,High,F0038,Nashville,TN,37203,Matched,2024-04-05,,D0009,C022,
+N00466,2024-01-13,Clothing,school clothes,3,Medium,F0002,Atlanta,GA,30305,Fulfilled,2024-01-14,2024-01-19,D0038,C015,Urgent need for family in crisis
+N00467,2024-05-28,Childcare,car seat,6,Critical,F0087,Birmingham,AL,35201,Closed,2024-05-29,2024-06-01,D0038,C026,Urgent need for family in crisis
+N00468,2024-06-06,Housing,mattress,4,Medium,F0115,Atlanta,GA,30303,Requested,,,,,
+N00469,2024-10-25,Housing,rent assistance,1,Critical,F0174,Charlotte,NC,28201,Closed,2024-10-25,2024-10-25,D0072,C007,Urgent need for family in crisis
+N00470,2024-06-11,Utilities,electric bill,6,High,F0102,Birmingham,AL,35202,Closed,2024-06-12,2024-06-17,D0131,C002,Urgent need for family in crisis
+N00471,2024-07-09,Utilities,water bill,3,High,F0090,Birmingham,AL,35203,Requested,,,,,Urgent need for family in crisis
+N00472,2024-07-31,Food,meal,4,Critical,F0036,Birmingham,AL,35205,Fulfilled,2024-07-31,2024-08-04,D0042,C026,
+N00473,2024-08-31,Clothing,shoes,4,Low,F0002,Nashville,TN,37204,Closed,2024-08-31,2024-09-04,D0017,C030,
+N00474,2024-10-11,Transportation,uber/lyft credit,2,Medium,F0048,Charlotte,NC,28204,Fulfilled,2024-10-12,2024-10-17,D0146,C025,
+N00475,2024-10-26,Medical,prescription assistance,4,Medium,F0007,Nashville,TN,37201,In Progress,2024-10-27,,D0144,C024,
+N00476,2024-11-30,Transportation,uber/lyft credit,3,Critical,F0046,Atlanta,GA,30304,Cancelled,,,,,Urgent need for family in crisis
+N00477,2024-05-21,School Supplies,backpack,5,Critical,F0067,Atlanta,GA,30304,Fulfilled,2024-05-21,2024-05-23,D0093,C019,Urgent need for family in crisis
+N00478,2024-05-12,Food,food pantry items,3,Critical,F0178,Atlanta,GA,30302,Matched,2024-05-13,,D0015,C005,
+N00479,2024-08-02,Housing,bedding,3,Low,F0075,Nashville,TN,37203,Cancelled,,,,,
+N00480,2024-02-18,Food,meal,3,High,F0070,Charlotte,NC,28203,Closed,2024-02-18,2024-02-23,D0140,C011,
+N00481,2024-03-11,Childcare,wipes,4,High,F0042,Atlanta,GA,30301,Closed,2024-03-11,2024-03-14,D0096,C025,
+N00482,2024-08-01,School Supplies,notebooks,1,Critical,F0090,Atlanta,GA,30303,Fulfilled,2024-08-01,2024-08-01,D0030,C027,
+N00483,2024-03-29,Clothing,baby clothes,3,Low,F0191,Nashville,TN,37201,Cancelled,,,,,
+N00484,2024-03-05,Clothing,shoes,6,Low,F0020,Nashville,TN,37201,Matched,2024-03-05,,D0021,C014,Urgent need for family in crisis
+N00485,2024-02-25,Utilities,electric bill,6,Low,F0121,Charlotte,NC,28201,Requested,,,,,Urgent need for family in crisis
+N00486,2024-12-07,Housing,bed,1,Low,F0155,Nashville,TN,37202,Requested,,,,,
+N00487,2024-01-15,School Supplies,notebooks,2,High,F0149,Nashville,TN,37203,Requested,,,,,
+N00488,2024-02-20,School Supplies,school uniforms,2,High,F0044,Atlanta,GA,30305,Closed,2024-02-20,2024-02-23,D0136,C007,
+N00489,2024-07-06,Food,meal,5,Medium,F0113,Birmingham,AL,35201,Cancelled,,,,,
+N00490,2024-04-19,Childcare,crib,3,Low,F0120,Birmingham,AL,35201,Closed,2024-04-19,2024-04-23,D0105,C004,
+N00491,2024-10-12,Medical,medical supplies,1,Low,F0084,Nashville,TN,37204,Cancelled,,,,,
+N00492,2024-12-17,Transportation,uber/lyft credit,4,Medium,F0018,Nashville,TN,37204,Fulfilled,2024-12-17,2024-12-19,D0142,C014,Urgent need for family in crisis
+N00493,2024-12-11,Childcare,wipes,5,Low,F0031,Atlanta,GA,30302,Fulfilled,2024-12-12,2024-12-15,D0027,C013,
+N00494,2024-07-05,Food,meal,4,Low,F0060,Atlanta,GA,30304,Matched,2024-07-05,,D0052,C020,Urgent need for family in crisis
+N00495,2024-07-01,Transportation,car repair,3,Medium,F0197,Birmingham,AL,35204,Fulfilled,2024-07-02,2024-07-05,D0104,C016,
+N00496,2024-04-28,Transportation,uber/lyft credit,2,Low,F0026,Birmingham,AL,35201,Cancelled,,,,,Urgent need for family in crisis
+N00497,2024-04-01,Medical,first aid,5,Low,F0195,Atlanta,GA,30301,Fulfilled,2024-04-02,2024-04-04,D0084,C005,
+N00498,2024-05-30,Medical,medical supplies,4,Critical,F0130,Charlotte,NC,28203,Cancelled,,,,,
+N00499,2024-03-01,Housing,bed,4,Critical,F0010,Birmingham,AL,35201,Fulfilled,2024-03-02,2024-03-04,D0081,C028,
+N00500,2024-08-08,Transportation,bus pass,1,Critical,F0169,Birmingham,AL,35205,Matched,2024-08-08,,D0100,C016,
